@@ -11,6 +11,15 @@
 		},
 		{
 			"path": "app-upload"
+		},
+		{
+			"path": "app-dir"
+		},
+		{
+			"path": "app-slug"
+		},
+		{
+			"path": "app-download"
 		}
 	]
 }
